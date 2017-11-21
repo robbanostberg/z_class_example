@@ -9,4 +9,4 @@ This repository is an example of how we can work together on the joint piece of 
 
 ## Another description
 
-Code...
+Code should always be commented
